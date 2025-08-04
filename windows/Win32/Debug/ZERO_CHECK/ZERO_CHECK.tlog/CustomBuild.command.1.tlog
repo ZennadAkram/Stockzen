@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\STUDIOPROJECTS\STOCKZEN\WINDOWS\CMAKEFILES\B95E3DA07851AA566ACE40B9B32F0060\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ASUS/StudioProjects/Stockzen/windows -BC:/Users/ASUS/StudioProjects/Stockzen/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ASUS/StudioProjects/Stockzen/windows/stockzen.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
