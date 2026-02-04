@@ -45,21 +45,19 @@ It supports **barcode scanning** for quick sales processing and stores data loca
 ```bash
 git clone https://github.com/your-username/flutter-cashier-app.git
 ```
-2.**Install Flutter dependencies**
+2. **Install Flutter dependencies**
 ```bash
 cd flutter-cashier-app
 flutter pub get
 ```
-3.**Run the app**
+3. **Run the app**
 ```bash
 flutter run -d windows   # for Windows
 flutter run -d linux     # for Linux
 flutter run -d macos     # for macOS
 ```
-4.**Optional**
+4. **Optional**
 - Connect a barcode reader (usually works as a keyboard input)
 - Add initial products/workers through the management screens
 
-
-## 📂 Project Structure (Example)
 
