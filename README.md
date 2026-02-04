@@ -1,21 +1,65 @@
-<<<<<<< HEAD
-# stockzen
+# 🏪 Flutter Desktop Cashier App
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)  
+[![SQLite](https://img.shields.io/badge/SQLite-3.40-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-## Getting Started
+A **desktop cashier application** built with **Flutter** that allows businesses to manage sales, products, workers, and salaries.  
+It supports **barcode scanning** for quick sales processing and stores data locally using **SQLite**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Cashier / POS Features
+- 🛒 **Cashier screen** for processing sales
+- 📦 **Product scanning** via barcode reader
+- 💵 Real-time calculation of total sales
+- 🧾 Generate receipts for transactions
+- 🔎 Search and filter products
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Stockzen
-Mini POS system app built with Flutter 
->>>>>>> 1168aaff73d812dab546ccca4eb5189858f9c9dd
+### Management Features
+- 👥 **Manage workers**
+- 💰 **Manage worker salaries**
+- 📦 **Add, edit, and delete products**
+- 📊 View total sales and revenue
+
+### Tech & Platform
+- 🖥️ **Desktop application** (Windows, Linux, macOS)
+- 🗄️ **Local database** with SQLite
+- 🔄 Works offline
+
+---
+
+## 🛠️ Technologies Used
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)  
+[![SQLite](https://img.shields.io/badge/SQLite-3.40-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/flutter-cashier-app.git
+```
+2.**Install Flutter dependencies**
+```bash
+cd flutter-cashier-app
+flutter pub get
+```
+3.**Run the app**
+```bash
+flutter run -d windows   # for Windows
+flutter run -d linux     # for Linux
+flutter run -d macos     # for macOS
+```
+4.**Optional**
+- Connect a barcode reader (usually works as a keyboard input)
+- Add initial products/workers through the management screens
+
+
+## 📂 Project Structure (Example)
+
