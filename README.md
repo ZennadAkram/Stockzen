@@ -43,7 +43,7 @@ It supports **barcode scanning** for quick sales processing and stores data loca
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/flutter-cashier-app.git
+git clone https://github.com/ZennadAkram/Stockzen.git
 ```
 2. **Install Flutter dependencies**
 ```bash
