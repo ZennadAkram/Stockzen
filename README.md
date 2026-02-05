@@ -47,7 +47,7 @@ git clone https://github.com/your-username/flutter-cashier-app.git
 ```
 2. **Install Flutter dependencies**
 ```bash
-cd flutter-cashier-app
+cd Stockzen
 flutter pub get
 ```
 3. **Run the app**
