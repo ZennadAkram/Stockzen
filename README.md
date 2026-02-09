@@ -43,11 +43,11 @@ It supports **barcode scanning** for quick sales processing and stores data loca
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| <img src="assets/screenshots/Screenshot_2025-12-02_22-15-51.png" height="480" /> | <img src="assets/screenshots/Screenshot_2025-12-02_22-16-07.png" height="480" /> |
+| <img src="assets/screenshots/Screenshot_from_2025-12-02_22-16-07.png" height="480" /> | <img src="assets/screenshots/Screenshot_from_2025-12-02_22-17-25.png" height="480" /> |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
-| <img src="assets/screenshots/Screenshot_2025-12-02_22-17-25.png" height="480" /> | <img src="assets/screenshots/Screenshot_2025-12-02_22-17-39.png" height="480" /> |
+| <img src="assets/screenshots/Screenshot_from_2025-12-02_22-17-39.png" height="480" /> | <img src="assets/screenshots/Screenshot_from_2025-12-02_22-18-12.png" height="480" /> |
 
 | Screenshot 5 |
 |--------------|
